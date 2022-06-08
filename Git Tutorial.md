@@ -49,6 +49,6 @@ List of all commits with unique ID will be displayed
 
  step 6 - *git request* ask the remote repository owner to accept the changes
 
- comments
+ 
 
  
